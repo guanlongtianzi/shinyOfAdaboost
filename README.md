@@ -1,5 +1,5 @@
 # shinyOfAdaboost
-基于shiny的Adaboost，使用到了`shiny`、`RWeaka`、`shinyAce`、`rmarkdown`、`ggplot2`、`gridExtra`、`knitr`等`R`包，使用方法为：
+基于shiny的Adaboost，使用到了`shiny`、`RWeaka`、`shinyAce`、`rmarkdown`、`ggplot2`、`gridExtra`、`knitr`等`R`package，使用方法为：
 ```s
 if(!require(shiny)) {
   install.packages(pkgs = 'shiny',quiet = TRUE)
